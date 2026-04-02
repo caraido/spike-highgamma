@@ -137,13 +137,13 @@ where `d` is the Euclidean distance between electrodes.
 
 ## Data Availability
 
-Due to file size constraints and data sharing agreements, the `data/` directory is excluded from version control. Please contact the repository maintainer for data access.
+Due to file size constraints and data sharing agreements, the `data/` directory is excluded from version control. Please refer to the Data Availability section in the paper.
 
 ## Citation
 
 This code accompanies the following publication:
 
-**Lei, T., Scheid, M. R., Flint, R. D., Glaser, J. I., & Slutzky, M. W.** (2025). Active Dissociation of Intracortical Spiking and High Gamma Activity. *bioRxiv*. https://doi.org/10.1101/2025.07.10.663559
+**Lei, T., Scheid, M. R., Flint, R. D., Glaser, J. I., & Slutzky, M. W.** (2026). Active Dissociation of Intracortical Spiking and High Gamma Activity. *Nature*. [https://doi.org/10.1101/2025.07.10.663559](https://www.nature.com/articles/s41586-026-10331-y)
 
 If you use this code in your research, please cite the paper above.
 
@@ -152,10 +152,6 @@ If you use this code in your research, please cite the paper above.
 This repository contains analysis code developed by:
 
 - **Tianhao Lei** - Primary author and code developer
-- **Michael R. Scheid** - Contributor
-- **Robert D. Flint** - Contributor
-- **Joshua I. Glaser** - Contributor
-- **Marc W. Slutzky** - Principal Investigator
 
 For questions, suggestions, or bug reports, please open an issue on GitHub.
 
