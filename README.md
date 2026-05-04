@@ -151,7 +151,8 @@ If you use this code in your research, please cite the paper above.
 
 This repository contains analysis code developed by:
 
-- **Tianhao Lei** - Primary author and code developer
+- **Tianhao Lei** - Primary code developer
+- **Michael R. Scheid** - Code developer
 
 For questions, suggestions, or bug reports, please open an issue on GitHub.
 
